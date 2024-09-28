@@ -1,12 +1,12 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
-import HelloWorld from './components/HelloWorld.vue'
+import MainHeading from './components/MainHeading.vue'
 </script>
 
 <template>
   <header>
     <div class="wrapper">
-      <HelloWorld msg="TODO application" />
+      <MainHeading msg="TODO application" />
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
