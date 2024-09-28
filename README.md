@@ -60,4 +60,8 @@ npm run test:e2e
 npm run lint
 ```
 
+<<<<<<< HEAD
 testing feature/1
+=======
+test feature/2
+>>>>>>> feat/2
