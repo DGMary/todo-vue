@@ -72,8 +72,5 @@ test 7
 test 8
 test 9
 test 10
-<<<<<<< HEAD
 test 11
 test 21
-=======
->>>>>>> 3ed22d7... test 10
