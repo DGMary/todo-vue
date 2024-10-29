@@ -72,11 +72,7 @@ test 7
 test 8
 test 9
 test 10
-test 11
-test 21
 tets 11
 t 12
 test 21
 test 13
-test 14
-test 15 line
